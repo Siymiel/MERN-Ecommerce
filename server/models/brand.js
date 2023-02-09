@@ -10,7 +10,7 @@ const options = {
 
 Mongoose.plugin(slug, options);
 
-// Brand Schema
+// Schema - Brand
 const BrandSchema = new Schema({
   name: {
     type: String,
