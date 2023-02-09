@@ -1,6 +1,5 @@
 {
   "name": "mern-ecommerce",
-  "author": "Loulou Angibeau",
   "version": "1.0.0",
   "description": "MERN Ecommerce",
   "main": "server/index.js",
@@ -24,6 +23,7 @@
     "redux-thunk",
     "webpack"
   ],
+  "author": "Loulou Angibeau",
   "license": "MIT",
   "dependencies": {
     "@fontsource/poppins": "^4.5.9",
